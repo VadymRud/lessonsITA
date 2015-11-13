@@ -1,0 +1,8 @@
+*.dev
+*.cproject
+*.layout
+project1/main.o
+*.o
+*.project
+main.exe
+*.exe
